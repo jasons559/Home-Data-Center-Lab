@@ -69,7 +69,7 @@ The objective was to gain hands-on experience with Linux-based system administra
 
 <p align="center">
 Network Diagram: <br/>
-<img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/Overview_Windows11_Windows_Server_UTM_MacM4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Network_Diagram1.drawio.pdf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 BIND9 Configuration:  <br/>
