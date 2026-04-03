@@ -33,6 +33,18 @@ The objective was to gain hands-on experience with Linux-based system administra
  <li>Configured client system to use internal DNS server</li>
 </ul>
 
+<b>Troubleshooting & Validation</b>
+<ul>
+<li>Diagnosed DNS resolution failures using dig and system logs</li>
+<li>Verified reverse DNS lookups using PTR records</li>
+ <li>Troubleshot network connectivity and interface issues using ip and ping</li>
+ <li>Flushed DNS cache using resolvectl to validate changes</li>
+ <li>Managed DNS and system services using systemctl</li>
+ <li>Performed end-to-end connectivity testing between Linux server and Windows client</li>
+</ul>
+
+
+
 
 
 <h2>Screenshots</h2>
