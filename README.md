@@ -81,7 +81,7 @@ Successful DNS Query: <br/>
 <br />
 <br />
 Reverse DNS Query:  <br/>
-<img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/Windows_Client_Domain_Join.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Reverse_DNS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
