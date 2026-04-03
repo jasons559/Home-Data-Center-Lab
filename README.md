@@ -69,11 +69,11 @@ The objective was to gain hands-on experience with Linux-based system administra
 
 <p align="center">
 Network Diagram: <br/>
-<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Network_Diagram1.drawio.pdf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Network_Diagram1.drawio.pdf" height="80%" width="80%" 
 <br />
 <br />
 BIND9 Configuration:  <br/>
-<img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/Domain_Controller_Setup.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/5ff34cebc35763c97b430deda6aef54414b8e95f/images/BIND9_Configuration.png" height="80%" width="80%" 
 <br />
 <br />
 Successful DNS Query: <br/>
