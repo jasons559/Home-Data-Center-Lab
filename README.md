@@ -68,30 +68,24 @@ The objective was to gain hands-on experience with Linux-based system administra
 
 
 <p align="center">
-Overview(Windows Server+Windows 11 Pro): <br/>
+Network Diagram: <br/>
 <img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/Overview_Windows11_Windows_Server_UTM_MacM4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Domain Controller Setup:  <br/>
+BIND9 Configuration:  <br/>
 <img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/Domain_Controller_Setup.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-DNS Configuration (Static IPv4): <br/>
+Successful DNS Query: <br/>
 <img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/DNS_Configuration_Static_IPv4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Windows Client Domain Join:  <br/>
+Reverse DNS Query:  <br/>
 <img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/Windows_Client_Domain_Join.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Group Policy Security Hardening:  <br/>
-<img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/Group_Policy_Security_Hardening.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Troubleshooting Process:  <br/>
-<img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/Troubleshooting.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
+
 
 </p>
 
