@@ -77,7 +77,7 @@ BIND9 Configuration:  <br/>
 <br />
 <br />
 Successful DNS Query: <br/>
-<img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/DNS_Configuration_Static_IPv4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Successful_DNS_Query.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Reverse DNS Query:  <br/>
