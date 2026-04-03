@@ -49,6 +49,24 @@ The objective was to gain hands-on experience with Linux-based system administra
 
 <h2>Screenshots</h2>
 
+<b>Key Takeaways</b>
+<ul>
+<li>Strengthened understanding of DNS infrastructure and name resolution</li>
+<li>Gained hands-on experience with Linux system administration</li>
+ <li>Improved troubleshooting methodology for network and service-related issues</li>
+ <li>Built practical skills aligned with NOC and entry-level system administration roles</li>
+ </ul>
+
+<b>Future Improvements</b>
+<ul>
+<li>Add DHCP service for dynamic IP assignment</li>
+<li>Implement firewall rules (UFW) for network segmentation</li>
+ <li>Expand to multi-server environment (web server, monitoring tools)</li>
+ </ul>
+
+
+
+
 <p align="center">
 Overview(Windows Server+Windows 11 Pro): <br/>
 <img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/Overview_Windows11_Windows_Server_UTM_MacM4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
